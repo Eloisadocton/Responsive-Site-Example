@@ -1,0 +1,157 @@
+
+
+.header {
+  display: inline;
+  float: left;
+  margin-left: 0px;
+}
+.menu {
+  margin: 10px;
+}
+li {
+  display: inline;
+  float: left;
+  padding-right: 20px;
+}
+ a {
+   font-family: sans-serif;
+   color: black;
+   text-decoration: none;
+ }
+a:hover {
+  color: gray;
+}
+h1 {
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+.mainimage {
+  background-image: url(../images/mainphoto.jpeg);
+  background-size: cover;
+}
+
+.wrapper {
+    float:left;
+    width:29%;
+    padding: 2%
+}
+.containerlist {
+    background-color: #f7f7f7;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    border: 1px solid #8c8787;
+    text-align: center;
+}
+.featurescontainer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color:#519251;
+  text-align: center;
+  width: auto;
+}
+.containerlistchoose {
+border: 2px solid #8c8787;
+border-radius: 45px;
+width: 60px;
+height: 20px;
+}
+a.offer {
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+a.price {
+  color: white;
+  font-family: sans-serif;
+  font-size: 100px;
+}
+
+a.monthy {
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+.featurescontainersb {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color:#2c4985;
+  text-align: center;
+  width: auto;
+}
+
+a.offersb {
+  clear: both;
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;}
+
+a.pricesb {
+  color: white;
+  font-family: sans-serif;
+  font-size: 100px;
+}
+a.monthysb {
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+.featurescontainerent {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: black;
+  text-align: center;
+  width: auto;
+}
+.offersent {
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+.priceent {
+  color: white;
+  font-family: sans-serif;
+  font-size: 100px;
+}
+.monthyent {color: white;
+font-family: sans-serif;
+font-size: 20px;
+}
+
+
+.informationleft {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: auto;
+}
+.informationright {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: auto;
+}
+.wrapperinforight {
+  float:right;
+  width:45%;
+  padding: 2%;
+  background-color: white;
+  height: auto;
+}
+.wrapperinfoleft {
+  float:left;
+  width:45%;
+  padding: 2%;
+  background-color: white;
+  height: auto;
+}
+
+.footer {
+  clear: both;
+  background-color: black;
+  color: white;
+  height: 100px;
+  display: inline;
+}
